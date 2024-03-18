@@ -17,3 +17,7 @@ Ouça musicas, assista fimes e mais sem os anúncios ocupem a tela.
 ## Assista filmes, desenhos, ouça musicas e tudo mais disponível no YouTube, **SEM ANÚNCIOS** com o Tube Films Adblock.
 
 ### Divirta-se 💙
+
+## Dica:
+Experimente o Tik Downloader para baixar videos do tiktok sem marca d'água, rápido e fácil | GRÁTIS e ILIMITADO
+https://bit.ly/tiktokD
