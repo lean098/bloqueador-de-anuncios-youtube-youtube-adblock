@@ -20,4 +20,4 @@ Ouça musicas, assista fimes e mais sem os anúncios ocupem a tela.
 
 ## Dica:
 Experimente o Tik Downloader para baixar videos do tiktok sem marca d'água, rápido e fácil | GRÁTIS e ILIMITADO
-https://bit.ly/tiktokD?source=github_bloqueador-de-anuncios-youtube-youtube-adblock
+https://bit.ly/tiktokD
