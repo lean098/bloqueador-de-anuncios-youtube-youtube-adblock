@@ -1,6 +1,6 @@
 # Tube Films: Block Ads on Video
 
-[<img src="https://github.com/lean098/bloqueador-de-anuncios-youtube-youtube-adblock/assets/94962594/33dd9898-662f-468c-a8af-346145031396">](https://play.google.com/store/apps/details?id=com.upflix)
+[<img src="https://github.com/lean098/bloqueador-de-anuncios-youtube-youtube-adblock/assets/94962594/33dd9898-662f-468c-a8af-346145031396">](https://play.google.com/store/apps/details?id=com.upflix&source=github_bloqueador-de-anuncios-youtube-youtube-adblock)
 
 ### Tube Films Adblock é um aplicativo para android que filtra o conteúdo e bloqueia os anúncios de todos os vídeos no youtube.
 ## -- YouTube é uma marca comercial da Google LLC. O uso desta marca registrada está sujeito às permissões do Google.
@@ -20,4 +20,4 @@ Ouça musicas, assista fimes e mais sem os anúncios ocupem a tela.
 
 ## Dica:
 Experimente o Tik Downloader para baixar videos do tiktok sem marca d'água, rápido e fácil | GRÁTIS e ILIMITADO
-https://bit.ly/tiktokD
+https://bit.ly/tiktokD?source=github_bloqueador-de-anuncios-youtube-youtube-adblock
